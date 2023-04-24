@@ -1,0 +1,75 @@
+﻿<Window x:Class="AMONIC.View.ManageFlightSchedules"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AMONIC.View"
+        Loaded="Window_Loaded"
+        mc:Ignorable="d"
+        Title="Manage Flight Schedules" Height="650" Width="900">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="25"></ColumnDefinition>
+            <ColumnDefinition Width="850"></ColumnDefinition>
+            <ColumnDefinition Width="25"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="250"></RowDefinition>
+            <RowDefinition Height="300"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <ComboBox DisplayMemberPath="IATACode" x:Name="Cmb_From" Grid.Row="0" Grid.Column="1" Width="150" Height="26" Margin="0,0,560,162" HorizontalAlignment="Right" VerticalAlignment="Bottom" SelectionChanged="Cmb_From_SelectionChanged"></ComboBox>
+        <Label Grid.Row="0" Grid.Column="1" Width="50" Height="25" Content="Откуда" Margin="0,0,715,163" HorizontalAlignment="Right" VerticalAlignment="Bottom"></Label>
+        <ComboBox DisplayMemberPath="IATACode" x:Name="Cmb_To" Grid.Row="0" Grid.Column="1" Width="150" Height="25" Margin="0,0,323,163" VerticalAlignment="Bottom" HorizontalAlignment="Right"></ComboBox>
+        <Label Grid.Row="0" Grid.Column="1" Width="79" Height="25" Content="Дата вылета&#xD;&#xA;" Margin="0,0,715,87" HorizontalAlignment="Right" VerticalAlignment="Bottom"></Label>
+        <ComboBox DisplayMemberPath="Time" x:Name="Cmb_Sortby" Grid.Row="0" Grid.Column="1" Width="150" Height="25" Margin="0,0,39,163" VerticalAlignment="Bottom" HorizontalAlignment="Right">
+            <ComboBoxItem Content="Data-Time" IsSelected="True"></ComboBoxItem>
+            <ComboBoxItem Content="Price"></ComboBoxItem>
+            <ComboBoxItem Content="Confirmed"></ComboBoxItem>
+        </ComboBox>
+        <Label Grid.Row="0" Grid.Column="1" Width="50" Height="25" Content="Куда" Margin="0,0,478,163" VerticalAlignment="Bottom" HorizontalAlignment="Right"></Label>
+        <DatePicker x:Name="Dt_Out" Grid.Row="0" Grid.Column="1" Width="150" Height="25" Margin="90,138,510,86"></DatePicker>
+        <Label Grid.Row="0" Grid.Column="1" Width="100" Height="26" Content="Номер борта" Margin="0,0,428,86" HorizontalAlignment="Right" VerticalAlignment="Bottom"></Label>
+        <ComboBox DisplayMemberPath="FlightNumber" x:Name="Txb_flightNum" Grid.Row="0" Grid.Column="1" Width="100" Height="25" Margin="427,138,323,86"></ComboBox>
+        <Label Grid.Row="0" Grid.Column="1" Width="99" Height="26" Content="Сортировать по" Margin="0,0,189,162" VerticalAlignment="Bottom" HorizontalAlignment="Right"></Label>
+        <DataGrid AutoGenerateColumns="False" IsReadOnly="True" x:Name="FlightGrid" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Center" Width="850" Height="300" VerticalAlignment="Bottom">
+            <DataGrid.RowStyle>
+                <Style TargetType="DataGridRow">
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Confirmed}" Value="False">
+                            <Setter Property="Background" Value="Red"></Setter>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </DataGrid.RowStyle>
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Date" Width="*" Binding="{Binding Date, StringFormat='{}{0:dd.MM.yyyy}'}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Time" Width="*" Binding="{Binding Time}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Model" Width="*" Binding="{Binding Aircrafts.Name}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Flight number" Width="*" Binding="{Binding FlightNumber}"></DataGridTextColumn>
+                <DataGridTextColumn Header="From" Width="*" Binding="{Binding Routes.Airports.IATACode}"></DataGridTextColumn>
+                <DataGridTextColumn Header="To" Width="*" Binding="{Binding Routes.Airports1.IATACode}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Economy price" Width="*" Binding="{Binding EconomyPrice, StringFormat=0.$}"></DataGridTextColumn>
+                <DataGridTemplateColumn Width="auto">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button Content="Редактировать" Name="BtnEdit" Click="BtnEdit_Click">
+                                <Button.Resources>
+                                    <Style TargetType="{x:Type Border}">
+                                        <Setter Property="CornerRadius" Value="10"/>
+                                    </Style>
+                                </Button.Resources>
+                            </Button>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Click="Btn_Delete" Grid.Column="1" Grid.Row="2" Height="25" Content="Cancel flight" Margin="25,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left" Width="150"/>
+        <Button Click="Btn_Delete1" Grid.Column="1" Grid.Row="2" Height="25" Content="Delete flight" Margin="197,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left" Width="150"/>
+        <Button Click="Btn_Import" Grid.Column="1" Grid.Row="2" Height="25" Content="Import" Margin="661,0,0,0" VerticalAlignment="Center" HorizontalAlignment="Left" Width="150"/>
+        <Button Click="Btn_Apply1" Content="Подтвердить" x:Name="Btn_Apply" Grid.Row="0" Grid.Column="1" Width="100" Height="25" Margin="661,138,89,87"/>
+    </Grid>
+</Window>

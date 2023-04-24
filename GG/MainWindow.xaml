@@ -1,0 +1,24 @@
+﻿<Window x:Class="AMONIC.MainWindow"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AMONIC"
+        mc:Ignorable="d"
+        Title="Login" Height="450" Width="650" Icon="/Icon.png">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="200"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Image Width="400" Height="200" Source="/DS2017_TP09_color.png"></Image>
+        <TextBox FontFamily="TeX Gyre Adventor" x:Name="Txb_Name" Margin="0,20,0,0" VerticalAlignment="Top" Grid.Row="1" Width="400" Height="25"></TextBox>
+        <TextBox FontFamily="TeX Gyre Adventor" x:Name="Txb_Pass" Margin="0,80,0,0" VerticalAlignment="Top" Grid.Row="1" Width="400" Height="25"></TextBox>
+        <Label Width="71" Height="25" Margin="0,20,470,0" VerticalAlignment="Top" Content="Username:" Grid.Row="1" FontFamily="TeX Gyre Adventor"></Label>
+        <Label Width="71" Height="25" Margin="0,80,470,0" VerticalAlignment="Top" Content="Password:" Grid.Row="1" FontFamily="TeX Gyre Adventor"></Label>
+        <Button Click="Click_Btn_Log" x:Name="Btn_Log" Margin="0,100,225,0" Content="Login" Background="White" Width="150" Height="25" Grid.Row="1" FontFamily="TeX Gyre Adventor"></Button>
+        <Button Click="Click_Btn_Exit" x:Name="Btn_Exit" Margin="225,100,0,0" Content="Exit" Background="White" Width="150" Height="25" Grid.Row="1" FontFamily="TeX Gyre Adventor"></Button>
+    </Grid>
+</Window>

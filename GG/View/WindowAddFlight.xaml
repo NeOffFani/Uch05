@@ -1,0 +1,30 @@
+﻿<Window x:Class="AMONIC.View.WindowAddFlight"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AMONIC.View"
+        mc:Ignorable="d"
+        Title="AddFlight" Height="800" Width="600">
+    <Grid>
+        <Label Width="150" Height="25" Content="Time" Margin="0,0,380,646" HorizontalAlignment="Right" VerticalAlignment="Bottom"></Label>
+        <TextBox x:Name="Time" Width="150" Height="25" Margin="0,0,0,646" HorizontalAlignment="Center" VerticalAlignment="Bottom"></TextBox>
+        <Label Width="150" Height="25" Content="Model" Margin="0,0,380,591" VerticalAlignment="Bottom" HorizontalAlignment="Right"></Label>
+        <TextBox x:Name="Model" Width="150" Height="25" Margin="0,0,0,591" VerticalAlignment="Bottom" HorizontalAlignment="Center"></TextBox>
+        <Label Width="150" Height="25" Content="Flight Number" Margin="0,0,380,531" HorizontalAlignment="Right" VerticalAlignment="Bottom"></Label>
+        <TextBox x:Name="FlightNumber" Width="150" Height="25" Margin="0,0,0,531" HorizontalAlignment="Center" VerticalAlignment="Bottom"></TextBox>
+        <Label Width="150" Height="25" Content="From" Margin="0,0,380,465" HorizontalAlignment="Right" VerticalAlignment="Bottom"></Label>
+        <TextBox x:Name="From" Width="150" Height="25" Margin="0,0,0,465" HorizontalAlignment="Center" VerticalAlignment="Bottom"></TextBox>
+        <Label Width="150" Height="25" Content="To" Margin="0,0,380,402" HorizontalAlignment="Right" VerticalAlignment="Bottom"></Label>
+        <TextBox x:Name="To" Width="150" Height="25" Margin="0,0,0,402" HorizontalAlignment="Center" VerticalAlignment="Bottom"></TextBox>
+        <Label Width="150" Height="25" Content="Price" Margin="0,0,380,334" HorizontalAlignment="Right" VerticalAlignment="Bottom"></Label>
+        <TextBox x:Name="Price" Width="150" Height="25" Margin="0,0,0,334" HorizontalAlignment="Center" VerticalAlignment="Bottom"></TextBox>
+        <Label Width="150" Height="25" Content="Data" Margin="0,0,380,256" HorizontalAlignment="Right" VerticalAlignment="Bottom"></Label>
+        <DatePicker x:Name="Date" Width="150" Height="25" Margin="0,0,0,256" HorizontalAlignment="Center" VerticalAlignment="Bottom"></DatePicker>
+        <Button Click="Add" Content="Add" Width="150" Height="25" Margin="0,0,380,79" HorizontalAlignment="Right" VerticalAlignment="Bottom"></Button>
+        <Button Click="Cancel" Content="Cancel" Width="150" Height="25" Margin="0,0,61,79" HorizontalAlignment="Right" VerticalAlignment="Bottom"></Button>
+
+    </Grid>
+</Window>

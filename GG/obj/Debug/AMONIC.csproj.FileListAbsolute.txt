@@ -1,0 +1,176 @@
+C:\Users\Student22_08\Desktop\Practica\AMONIC\bin\Debug\AMONIC.exe.config
+C:\Users\Student22_08\Desktop\Practica\AMONIC\bin\Debug\AMONIC.exe
+C:\Users\Student22_08\Desktop\Practica\AMONIC\bin\Debug\AMONIC.pdb
+C:\Users\Student22_08\Desktop\Practica\AMONIC\obj\Debug\AMONIC.csproj.AssemblyReference.cache
+C:\Users\Student22_08\Desktop\Practica\AMONIC\obj\Debug\AMONIC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student22_08\Desktop\Practica\AMONIC\obj\Debug\MainWindow.g.cs
+C:\Users\Student22_08\Desktop\Practica\AMONIC\obj\Debug\App.g.cs
+C:\Users\Student22_08\Desktop\Practica\AMONIC\obj\Debug\AMONIC_MarkupCompile.cache
+C:\Users\Student22_08\Desktop\Practica\AMONIC\obj\Debug\AMONIC_MarkupCompile.lref
+C:\Users\Student22_08\Desktop\Practica\AMONIC\obj\Debug\MainWindow.baml
+C:\Users\Student22_08\Desktop\Practica\AMONIC\obj\Debug\AMONIC.g.resources
+C:\Users\Student22_08\Desktop\Practica\AMONIC\obj\Debug\AMONIC.Properties.Resources.resources
+C:\Users\Student22_08\Desktop\Practica\AMONIC\obj\Debug\AMONIC.csproj.GenerateResource.cache
+C:\Users\Student22_08\Desktop\Practica\AMONIC\obj\Debug\AMONIC.csproj.CoreCompileInputs.cache
+C:\Users\Student22_08\Desktop\Practica\AMONIC\obj\Debug\AMONIC.exe
+C:\Users\Student22_08\Desktop\Practica\AMONIC\obj\Debug\AMONIC.pdb
+C:\Users\Student22_08\Desktop\Practica\AMONIC\bin\Debug\EntityFramework.dll
+C:\Users\Student22_08\Desktop\Practica\AMONIC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Student22_08\Desktop\Practica\AMONIC\bin\Debug\EntityFramework.xml
+C:\Users\Student22_08\Desktop\Practica\AMONIC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Student22_08\Desktop\Practica\AMONIC\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Student22_08\Desktop\Practica\AMONIC\obj\Debug\AMONIC_Content.g.cs
+C:\Users\Student22_08\Desktop\Practica\AMONIC\obj\Debug\AMONIC.csproj.CopyComplete
+C:\Users\Student22_08\Desktop\Practica\AMONIC\obj\Debug\View\WindowUsers.g.cs
+C:\Users\Student22_08\Desktop\Practica\AMONIC\obj\Debug\View\WindowUsers.baml
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.csproj.AssemblyReference.cache
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.csproj.SuggestedBindingRedirects.cache
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\MainWindow.g.cs
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\View\WindowAddUser.g.cs
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\View\WindowUsers.g.cs
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\App.g.cs
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC_Content.g.cs
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC_MarkupCompile.cache
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC_MarkupCompile.lref
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.exe
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.pdb
+D:\ЛПР Егоров\Practica\AMONIC\bin\Debug\AMONIC.exe.config
+D:\ЛПР Егоров\Practica\AMONIC\bin\Debug\AMONIC.exe
+D:\ЛПР Егоров\Practica\AMONIC\bin\Debug\AMONIC.pdb
+D:\ЛПР Егоров\Practica\AMONIC\bin\Debug\EntityFramework.dll
+D:\ЛПР Егоров\Practica\AMONIC\bin\Debug\EntityFramework.SqlServer.dll
+D:\ЛПР Егоров\Practica\AMONIC\bin\Debug\EntityFramework.xml
+D:\ЛПР Егоров\Practica\AMONIC\bin\Debug\EntityFramework.SqlServer.xml
+D:\ЛПР Егоров\Practica\AMONIC\bin\Debug\ru\EntityFramework.resources.dll
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\MainWindow.baml
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\View\WindowUsers.baml
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\View\WindowAddUser.baml
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.g.resources
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.Properties.Resources.resources
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.csproj.GenerateResource.cache
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.csproj.CoreCompileInputs.cache
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.csproj.CopyComplete
+F:\ЛПР Егоров\Practica\AMONIC\bin\Debug\AMONIC.exe.config
+F:\ЛПР Егоров\Practica\AMONIC\bin\Debug\AMONIC.exe
+F:\ЛПР Егоров\Practica\AMONIC\bin\Debug\AMONIC.pdb
+F:\ЛПР Егоров\Practica\AMONIC\bin\Debug\EntityFramework.dll
+F:\ЛПР Егоров\Practica\AMONIC\bin\Debug\EntityFramework.SqlServer.dll
+F:\ЛПР Егоров\Practica\AMONIC\bin\Debug\EntityFramework.xml
+F:\ЛПР Егоров\Practica\AMONIC\bin\Debug\EntityFramework.SqlServer.xml
+F:\ЛПР Егоров\Practica\AMONIC\bin\Debug\ru\EntityFramework.resources.dll
+F:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.csproj.AssemblyReference.cache
+F:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.csproj.SuggestedBindingRedirects.cache
+F:\ЛПР Егоров\Practica\AMONIC\obj\Debug\MainWindow.g.cs
+F:\ЛПР Егоров\Practica\AMONIC\obj\Debug\View\WindowAddUser.g.cs
+F:\ЛПР Егоров\Practica\AMONIC\obj\Debug\View\WindowUsers.g.cs
+F:\ЛПР Егоров\Practica\AMONIC\obj\Debug\App.g.cs
+F:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC_Content.g.cs
+F:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC_MarkupCompile.cache
+F:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC_MarkupCompile.lref
+F:\ЛПР Егоров\Practica\AMONIC\obj\Debug\MainWindow.baml
+F:\ЛПР Егоров\Practica\AMONIC\obj\Debug\View\WindowAddUser.baml
+F:\ЛПР Егоров\Practica\AMONIC\obj\Debug\View\WindowUsers.baml
+F:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.g.resources
+F:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.Properties.Resources.resources
+F:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.csproj.GenerateResource.cache
+F:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.csproj.CoreCompileInputs.cache
+F:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.csproj.CopyComplete
+F:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.exe
+F:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.pdb
+E:\ЛПР Егоров\Practica\AMONIC\bin\Debug\AMONIC.exe.config
+E:\ЛПР Егоров\Practica\AMONIC\bin\Debug\AMONIC.exe
+E:\ЛПР Егоров\Practica\AMONIC\bin\Debug\AMONIC.pdb
+E:\ЛПР Егоров\Practica\AMONIC\bin\Debug\EntityFramework.dll
+E:\ЛПР Егоров\Practica\AMONIC\bin\Debug\EntityFramework.SqlServer.dll
+E:\ЛПР Егоров\Practica\AMONIC\bin\Debug\EntityFramework.xml
+E:\ЛПР Егоров\Practica\AMONIC\bin\Debug\EntityFramework.SqlServer.xml
+E:\ЛПР Егоров\Practica\AMONIC\bin\Debug\ru\EntityFramework.resources.dll
+E:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.csproj.AssemblyReference.cache
+E:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.csproj.SuggestedBindingRedirects.cache
+E:\ЛПР Егоров\Practica\AMONIC\obj\Debug\MainWindow.g.cs
+E:\ЛПР Егоров\Practica\AMONIC\obj\Debug\View\WindowAddUser.g.cs
+E:\ЛПР Егоров\Practica\AMONIC\obj\Debug\View\WindowUsers.g.cs
+E:\ЛПР Егоров\Practica\AMONIC\obj\Debug\App.g.cs
+E:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC_Content.g.cs
+E:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC_MarkupCompile.cache
+E:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC_MarkupCompile.lref
+E:\ЛПР Егоров\Practica\AMONIC\obj\Debug\MainWindow.baml
+E:\ЛПР Егоров\Practica\AMONIC\obj\Debug\View\WindowAddUser.baml
+E:\ЛПР Егоров\Practica\AMONIC\obj\Debug\View\WindowUsers.baml
+E:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.g.resources
+E:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.Properties.Resources.resources
+E:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.csproj.GenerateResource.cache
+E:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.csproj.CoreCompileInputs.cache
+E:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.csproj.CopyComplete
+E:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.exe
+E:\ЛПР Егоров\Practica\AMONIC\obj\Debug\AMONIC.pdb
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\View\ManageFlightSchedules.g.cs
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\View\ManageFlightSchedules.baml
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\View\WindowAddFlight.g.cs
+D:\ЛПР Егоров\Practica\AMONIC\obj\Debug\View\WindowAddFlight.baml
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\bin\Debug\AMONIC.exe.config
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\bin\Debug\AMONIC.exe
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\bin\Debug\AMONIC.pdb
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\bin\Debug\EntityFramework.dll
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\bin\Debug\EntityFramework.xml
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\AMONIC.csproj.AssemblyReference.cache
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\AMONIC.csproj.SuggestedBindingRedirects.cache
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\MainWindow.g.cs
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\View\ManageFlightSchedules.g.cs
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\View\WindowAddFlight.g.cs
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\View\WindowAddUser.g.cs
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\View\WindowUsers.g.cs
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\App.g.cs
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\AMONIC_Content.g.cs
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\AMONIC_MarkupCompile.cache
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\AMONIC_MarkupCompile.lref
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\MainWindow.baml
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\View\ManageFlightSchedules.baml
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\View\WindowAddFlight.baml
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\View\WindowAddUser.baml
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\View\WindowUsers.baml
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\AMONIC.g.resources
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\AMONIC.Properties.Resources.resources
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\AMONIC.csproj.GenerateResource.cache
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\AMONIC.csproj.CoreCompileInputs.cache
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\AMONIC.csproj.CopyComplete
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\AMONIC.exe
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\AMONIC.pdb
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\View\Edit.g.cs
+C:\Users\NeOffFani\Desktop\Practica\AMONIC\obj\Debug\View\Edit.baml
+F:\Practica\GG\bin\Debug\AMONIC.exe.config
+F:\Practica\GG\bin\Debug\AMONIC.exe
+F:\Practica\GG\bin\Debug\AMONIC.pdb
+F:\Practica\GG\bin\Debug\EntityFramework.dll
+F:\Practica\GG\bin\Debug\EntityFramework.SqlServer.dll
+F:\Practica\GG\bin\Debug\EntityFramework.xml
+F:\Practica\GG\bin\Debug\EntityFramework.SqlServer.xml
+F:\Practica\GG\bin\Debug\ru\EntityFramework.resources.dll
+F:\Practica\GG\obj\Debug\AMONIC.csproj.AssemblyReference.cache
+F:\Practica\GG\obj\Debug\AMONIC.csproj.SuggestedBindingRedirects.cache
+F:\Practica\GG\obj\Debug\MainWindow.g.cs
+F:\Practica\GG\obj\Debug\View\Edit.g.cs
+F:\Practica\GG\obj\Debug\View\ManageFlightSchedules.g.cs
+F:\Practica\GG\obj\Debug\View\WindowAddFlight.g.cs
+F:\Practica\GG\obj\Debug\View\WindowAddUser.g.cs
+F:\Practica\GG\obj\Debug\View\WindowUsers.g.cs
+F:\Practica\GG\obj\Debug\App.g.cs
+F:\Practica\GG\obj\Debug\AMONIC_Content.g.cs
+F:\Practica\GG\obj\Debug\AMONIC_MarkupCompile.cache
+F:\Practica\GG\obj\Debug\AMONIC_MarkupCompile.lref
+F:\Practica\GG\obj\Debug\MainWindow.baml
+F:\Practica\GG\obj\Debug\View\Edit.baml
+F:\Practica\GG\obj\Debug\View\ManageFlightSchedules.baml
+F:\Practica\GG\obj\Debug\View\WindowAddFlight.baml
+F:\Practica\GG\obj\Debug\View\WindowAddUser.baml
+F:\Practica\GG\obj\Debug\View\WindowUsers.baml
+F:\Practica\GG\obj\Debug\AMONIC.g.resources
+F:\Practica\GG\obj\Debug\AMONIC.Properties.Resources.resources
+F:\Practica\GG\obj\Debug\AMONIC.csproj.GenerateResource.cache
+F:\Practica\GG\obj\Debug\AMONIC.csproj.CoreCompileInputs.cache
+F:\Practica\GG\obj\Debug\AMONIC.csproj.CopyComplete
+F:\Practica\GG\obj\Debug\AMONIC.exe
+F:\Practica\GG\obj\Debug\AMONIC.pdb
